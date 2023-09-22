@@ -6466,7 +6466,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 5204
-        atime1: 59560
+        atime1: 53777
         atime2: 65535
         atime3: 65535
         atime4: 0
@@ -10044,7 +10044,7 @@ ParticleSystem:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1437410392}
   serializedVersion: 8
-  lengthInSec: 0.6
+  lengthInSec: 2.2
   simulationSpeed: 1
   stopAction: 0
   cullingMode: 0
@@ -10288,7 +10288,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 70
+      scalar: 80
       minScalar: 50
       maxCurve:
         serializedVersion: 2
@@ -10604,7 +10604,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 30
+    maxNumParticles: 50
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
     rotation3D: 0
@@ -10870,7 +10870,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 10
+      scalar: 15
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -11383,7 +11383,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 5204
-        atime1: 59560
+        atime1: 50886
         atime2: 65535
         atime3: 65535
         atime4: 0
@@ -15010,7 +15010,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8673941321358503786, guid: 5a9fb1a75dfaae24a8369ccba5163d87, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -230
+      value: -56
       objectReference: {fileID: 0}
     - target: {fileID: 8673941321358503786, guid: 5a9fb1a75dfaae24a8369ccba5163d87, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
