@@ -8022,10 +8022,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hongbao
       objectReference: {fileID: 0}
-    - target: {fileID: 5044451430468441919, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -20524,7 +20520,7 @@ GameObject:
   - component: {fileID: 4864223675206181533}
   - component: {fileID: 4864223675206181522}
   m_Layer: 24
-  m_Name: module75
+  m_Name: Module75
   m_TagString: rootGameModule
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
