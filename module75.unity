@@ -20373,7 +20373,7 @@ GameObject:
   - component: {fileID: 4864223675206181533}
   - component: {fileID: 4864223675206181522}
   m_Layer: 24
-  m_Name: Module75
+  m_Name: module75
   m_TagString: rootGameModule
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
