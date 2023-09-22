@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37089851, g: 0.3783701, b: 0.3572253, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -871,6 +871,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Jinding
       objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: ef7a75ca9472bc64e83f885a56f4c67a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: ef7a75ca9472bc64e83f885a56f4c67a, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1124,6 +1128,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Q
       objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: ebfa58941d4480942a41bff1927e1707, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: ebfa58941d4480942a41bff1927e1707, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1251,6 +1259,10 @@ PrefabInstance:
     - target: {fileID: 5044451430468441919, guid: 00a2cedb570117f42aeaff9dc7dc0556, type: 3}
       propertyPath: m_Name
       value: K
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 00a2cedb570117f42aeaff9dc7dc0556, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 00a2cedb570117f42aeaff9dc7dc0556, type: 3}
       propertyPath: m_Pivot.x
@@ -3842,9 +3854,33 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4864223674949960422}
     m_Modifications:
+    - target: {fileID: 733352625, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1026284702, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1359651288, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1942759231, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5044451430468441919, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
       propertyPath: m_Name
       value: Hongbao3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5549850368648297381, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
       propertyPath: m_Pivot.x
@@ -3929,6 +3965,10 @@ PrefabInstance:
     - target: {fileID: 5805115564899164596, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8829487279751752088, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f64728f3ab17e87439edb3343977dfc9, type: 3}
@@ -4910,9 +4950,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4864223674949960422}
     m_Modifications:
+    - target: {fileID: 4690004122306195496, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5044451430468441919, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
       propertyPath: m_Name
       value: CaiShen
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
       propertyPath: m_Pivot.x
@@ -4997,6 +5045,10 @@ PrefabInstance:
     - target: {fileID: 5805115564899164596, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8173784380389679634, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3e293cbe941a0784da524cccfe5bbc5f, type: 3}
@@ -5778,7 +5830,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   translationName: 327004
-  FallbackText: God of Wealth
+  FallbackText: Ganapati
   FallbackMaterial: Material
 --- !u!114 &1195507298
 MonoBehaviour:
@@ -5800,7 +5852,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: God of Wealth
+  m_text: Ganapati
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
   m_sharedMaterial: {fileID: -1679955777152016878, guid: 98175b32dd2e83940aa6a3ceede2f534, type: 2}
@@ -5827,7 +5879,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 61.1
+  m_fontSize: 64
   m_fontSizeBase: 56.11
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5964,6 +6016,10 @@ PrefabInstance:
     - target: {fileID: 5044451430468441919, guid: 3976f0fb159eb084da9ad24a1ae1ebe6, type: 3}
       propertyPath: m_Name
       value: Wild2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 3976f0fb159eb084da9ad24a1ae1ebe6, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 3976f0fb159eb084da9ad24a1ae1ebe6, type: 3}
       propertyPath: m_Pivot.x
@@ -7648,6 +7704,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Yinding
       objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 36069910cffdd3b45ab949adce4c1272, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 36069910cffdd3b45ab949adce4c1272, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -8018,9 +8078,21 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4864223674949960422}
     m_Modifications:
+    - target: {fileID: 97347078, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2071857416, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5044451430468441919, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
       propertyPath: m_Name
       value: Hongbao
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 016fafbdc8c60ea4e8588143b5f2a909, type: 3}
       propertyPath: m_Pivot.x
@@ -8120,9 +8192,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 4864223674949960422}
     m_Modifications:
+    - target: {fileID: 417134470, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 549899659, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1807766088, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1887682385, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5044451430468441919, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
       propertyPath: m_Name
       value: Hongbao2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 38c7d71f2a2ffb0448ceb468c181e402, type: 3}
       propertyPath: m_Pivot.x
@@ -9232,6 +9324,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wild
       objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: 07fa27b3067a0c34fba2922fa437517b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: 07fa27b3067a0c34fba2922fa437517b, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -9333,6 +9429,10 @@ PrefabInstance:
     - target: {fileID: 5044451430468441919, guid: d4c3ba21adfdb6444bb09454a1c6a09e, type: 3}
       propertyPath: m_Name
       value: A
+      objectReference: {fileID: 0}
+    - target: {fileID: 5044451430468441919, guid: d4c3ba21adfdb6444bb09454a1c6a09e, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5805115564899164596, guid: d4c3ba21adfdb6444bb09454a1c6a09e, type: 3}
       propertyPath: m_Pivot.x
@@ -14642,7 +14742,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &2711419346139819988
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21715,7 +21815,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &4864223675580447922
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23630,7 +23730,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &4864223676296010758
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28016,7 +28116,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 926319311794325391}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
